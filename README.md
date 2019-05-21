@@ -1,8 +1,8 @@
 # Microsoft Partner Referrals
 
-https://docs.microsoft.com/en-us/partner/develop/referral-resources
-
 This repository contains a set of solutions and key utilities for developers to access and manage Partner Referrals.
+To refer to Partner Referrals visit API https://docs.microsoft.com/en-us/partner/develop/referral-resources.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
